@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
-  <a href="https://lightyourjourney.github.io/windows-tutorial/">
+  <a href="https://windows.yanjinli.fun/">
     <img alt="logo" src="./docs/public/images/og.png"/>
   </a>
 </p>
@@ -78,7 +78,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Online Reading
 
-This project is hosted on GitHub Pages and can be read online at [https://lightyourjourney.github.io/windows-tutorial/](https://lightyourjourney.github.io/windows-tutorial/).
+This project is hosted on GitHub Pages and can be read online at [https://windows.yanjinli.fun/](https://windows.yanjinli.fun/).
 
 ## Local Deployment
 
