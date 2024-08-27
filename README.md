@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
   <a href="https://windows.yanjinli.fun/">
-    <img alt="logo" src="./docs/public/images/og.png"/>
+    <img alt="logo" src="./docs/public/images/win.svg"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@ yarn docs:dev
 
 ## Repo Status
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/f07c6647b9f616c0ffbe670b3ef8ccd3b8c996b4.svg)
 
 ## Contributing
 
@@ -110,7 +110,7 @@ Contributions to the content of the guide and the website source code are welcom
 
 ## License
 
-The documentation is availably free under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. For details, see [LICENSE](./LICENSE).
+The documentation is availably free under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. For details, see [LICENSE](https://github.com/LightYourJourney/windows-tutorial/blob/main/LICENSE).
 
 ## Contributors
 
@@ -118,8 +118,6 @@ The documentation is availably free under the [Creative Commons BY-SA 4.0](https
   <img src="https://contrib.rocks/image?repo=LightYourJourney/windows-tutorial" alt="contributors"/>
 </a>
 
-<!--
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/LightYourJourney/windows-tutorial.svg?variant=adaptive)](https://starchart.cc/LightYourJourney/windows-tutorial)
--->

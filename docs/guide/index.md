@@ -1,12 +1,10 @@
-# 北京大学电脑小队帮助文档
+# Windows 不完全指南
 
 ::: warning
 
 🚧 文档施工中
 
 :::
-
-各位读者们，欢迎阅读北京大学电脑小队帮助文档（以下统称“本书”）。本书由北京大学信科青协电脑小队的数名优秀成员协力编写，用于配套和延展电脑小队校内志愿活动。本书面向电脑小白，从电脑最基本的结构讲起，深入浅出带领读者一步步逐渐掌握最必要的电脑实用知识。本书旨在成为一份实用的电脑知识手册与维修指南，若潜心研读则必有所获。现在就开始你的旅程吧！
 
 ## 在线阅读
 
@@ -34,7 +32,7 @@ yarn docs:dev
 
 ## 文档动态
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/f07c6647b9f616c0ffbe670b3ef8ccd3b8c996b4.svg)
 
 ## 参与贡献
 
@@ -42,7 +40,7 @@ yarn docs:dev
 
 ## 版权说明
 
-文档以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](./LICENSE)。
+文档以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](https://github.com/LightYourJourney/windows-tutorial/blob/main/LICENSE)。
 
 ## 贡献者
 
@@ -50,8 +48,6 @@ yarn docs:dev
   <img src="https://contrib.rocks/image?repo=LightYourJourney/windows-tutorial" alt="contributors"/>
 </a>
 
-<!--
 ## Star 历史
 
 [![Stargazers over time](https://starchart.cc/LightYourJourney/windows-tutorial.svg?variant=adaptive)](https://starchart.cc/LightYourJourney/windows-tutorial)
--->

@@ -1,7 +1,16 @@
 const keywords = [
-  "电脑维修",
+  "电脑",
   "电脑知识",
-  "电脑小队",
+  "电脑教程",
+  "电脑指南",
+  "Windows",
+  "Windows 10",
+  "Windows 11",
+  "Windows 教程",
+  "Windows 指南",
+  "win",
+  "win10",
+  "win11",
   "computer",
   "pc",
   "tutorial",
@@ -10,15 +19,15 @@ const keywords = [
 ];
 
 // Base Info
-export const TITLE = "PKU 电脑小队帮助文档";
-export const DESCRIPTION = "一份实用的电脑知识手册与维修指南";
+export const TITLE = "Windows不完全指南";
+export const DESCRIPTION = "从基础操作到生产力；从快速上手到系统优化";
 export const LANG = "zh-CN";
-export const DOMAIN = "lightyourjourney.github.io/windows-tutorial";
+export const DOMAIN = "windows.yanjinli.fun";
 export const URL = `https://${DOMAIN}`;
 export const REPO = "https://github.com/LightYourJourney/windows-tutorial";
-export const LOGO = "/images/logo.png";
+export const LOGO = "/images/logo.svg";
 export const KEYWORDS = keywords.join(",");
-export const META_TITLE = `${TITLE} —— 你的电脑知识手册`;
+export const META_TITLE = `${TITLE} —— Win It`;
 
 // Algolia Search
 export const API_KEY = "";
